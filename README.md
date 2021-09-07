@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Gousk
+- 👀 I’m interested in game development and web development
+- 🌱 I’m currently learning Unity and C#
+- 💞️ I’m looking to collaborate on game development
+- 📫 How to reach me https://steamcommunity.com/id/gousk/ 

@@ -1,7 +1,5 @@
 # Hi there, I'm Önder! 👋
 
-## Game Developer
-
 Welcome to my GitHub profile! I'm a new grad game developer with 2 years of experience in the industry. Currently, I am working as a VR game developer at OBUR Games, where I get to work remotely and use my skills in Unity with C# to build games and experiences.
 
 ### Connect with Me

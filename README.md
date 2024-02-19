@@ -6,6 +6,6 @@ Welcome to my GitHub profile! I'm a new grad game developer with 2 years of expe
 
 [![LinkedIn][linkedin-shield]][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/yourlinkedinprofile/
+[linkedin]: https://www.linkedin.com/in/%C3%B6nderbalta/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 

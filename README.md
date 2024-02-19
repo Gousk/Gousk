@@ -1,5 +1,3 @@
-I'm Önder, and I'm a game developer with 2 years of experience in the industry. Currently, I am working as a VR game developer at OBUR Games, where I get to work remotely and use my skills in Unity with C# to build amazing games and experiences.
-
 # Hi there, I'm Önder! 👋
 
 ## Game Developer

@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Gousk
-- 👀 I’m interested in game development and web development
-- 🌱 I’m currently learning Unity and C#
-- 💞️ I’m looking to collaborate on game development
-- 📫 How to reach me https://www.linkedin.com/in/önderbalta/ 
+I'm Önder, and I'm a game developer with 2 years of experience in the industry. Currently, I am working as a VR game developer at OBUR Games, where I get to work remotely and use my skills in Unity with C# to build amazing games and experiences.

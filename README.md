@@ -4,8 +4,6 @@ Welcome to my GitHub profile! I'm a new grad game developer with 2 years of expe
 
 ### Connect with Me
 
-[![LinkedIn][linkedin-shield]][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/%C3%B6nderbalta/
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[![Website](https://img.shields.io/badge/Website-CC5500?style=for-the-badge&logo=&logoColor=white)](http://onderbalta.com/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/önderbalta) 
 

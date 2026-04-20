@@ -9,7 +9,7 @@
         <circle cx="10" cy="10" r="8.5"/>
         <path d="M1.5,10h17M10,1.5v17M4.2,4.5c2,2.3,3.3,5.3,3.8,8.9m7.8-8.9c-2,2.3-3.3,5.3-3.8,8.9"/>
       </g>
-      <text x="62" y="28" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#22FF66">bicycleclub.net</text>
+      <text x="62" y="28" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#22FF66">onderbalta.com</text>
     </svg>
   </a>
   &nbsp;&nbsp;

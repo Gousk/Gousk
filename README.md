@@ -3,8 +3,8 @@
 <p align="center" style="margin:16px 0 6px 0;">
   <!-- WEBSITE -->
   <a href="https://onderbalta.com" title="onderbalta.com">
-    <svg width="186" height="44" viewBox="0 0 186 44" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="onderbalta.com">
-      <rect x="1.5" y="1.5" width="183" height="41" rx="10" fill="#0e1113" stroke="#22FF66" stroke-width="2.5"/>
+    <svg width="174" height="44" viewBox="0 0 174 44" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="onderbalta.com">
+      <rect x="1.5" y="1.5" width="171" height="41" rx="10" fill="#0e1113" stroke="#22FF66" stroke-width="2.5"/>
       <g transform="translate(14,12)" fill="none" stroke="#22FF66" stroke-width="2">
         <circle cx="10" cy="10" r="8.5"/>
         <path d="M1.5,10h17M10,1.5v17M4.2,4.5c2,2.3,3.3,5.3,3.8,8.9m7.8-8.9c-2,2.3-3.3,5.3-3.8,8.9"/>
@@ -13,10 +13,11 @@
     </svg>
   </a>
   &nbsp;&nbsp;
-  <!-- WEBSITE -->
+
+  <!-- BICYCLE CLUB -->
   <a href="https://bicycleclub.net" title="bicycleclub.net">
-    <svg width="186" height="44" viewBox="0 0 186 44" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="bicycleclub.net">
-      <rect x="1.5" y="1.5" width="183" height="41" rx="10" fill="#0e1113" stroke="#22FF66" stroke-width="2.5"/>
+    <svg width="178" height="44" viewBox="0 0 178 44" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="bicycleclub.net">
+      <rect x="1.5" y="1.5" width="175" height="41" rx="10" fill="#0e1113" stroke="#22FF66" stroke-width="2.5"/>
       <g transform="translate(14,12)" fill="none" stroke="#22FF66" stroke-width="2">
         <circle cx="10" cy="10" r="8.5"/>
         <path d="M1.5,10h17M10,1.5v17M4.2,4.5c2,2.3,3.3,5.3,3.8,8.9m7.8-8.9c-2,2.3-3.3,5.3-3.8,8.9"/>
@@ -25,10 +26,11 @@
     </svg>
   </a>
   &nbsp;&nbsp;
+
   <!-- LINKEDIN -->
   <a href="https://www.linkedin.com/in/onderbalta/" title="LinkedIn">
-    <svg width="176" height="44" viewBox="0 0 176 44" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="LinkedIn">
-      <rect x="1.5" y="1.5" width="173" height="41" rx="10" fill="#0e1113" stroke="#22FF66" stroke-width="2.5"/>
+    <svg width="148" height="44" viewBox="0 0 148 44" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="LinkedIn">
+      <rect x="1.5" y="1.5" width="145" height="41" rx="10" fill="#0e1113" stroke="#22FF66" stroke-width="2.5"/>
       <g transform="translate(14,12)" fill="#22FF66">
         <rect x="0" y="0" width="3.6" height="20" rx="1"/>
         <circle cx="1.8" cy="3.5" r="1.8"/>
@@ -39,10 +41,11 @@
     </svg>
   </a>
   &nbsp;&nbsp;
+
   <!-- ITCH.IO -->
   <a href="https://gousk.itch.io/" title="itch.io">
-    <svg width="158" height="44" viewBox="0 0 158 44" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="itch.io">
-      <rect x="1.5" y="1.5" width="155" height="41" rx="10" fill="#0e1113" stroke="#22FF66" stroke-width="2.5"/>
+    <svg width="132" height="44" viewBox="0 0 132 44" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="itch.io">
+      <rect x="1.5" y="1.5" width="129" height="41" rx="10" fill="#0e1113" stroke="#22FF66" stroke-width="2.5"/>
       <g transform="translate(14,13)" fill="none" stroke="#22FF66" stroke-width="2">
         <path d="M0,4 L6,0 H16 L22,4 V18 H0Z"/>
         <rect x="6.5" y="8" width="9" height="6" rx="1.5"/>

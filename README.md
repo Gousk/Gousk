@@ -2,7 +2,7 @@
 
 <p align="center" style="margin:16px 0 6px 0;">
   <!-- WEBSITE -->
-  <a href="https://onderbalta.com" title="onderbalta.com">
+  <a href="https://www.onderbalta.com" title="onderbalta.com">
     <svg width="186" height="44" viewBox="0 0 186 44" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="onderbalta.com">
       <rect x="1.5" y="1.5" width="183" height="41" rx="10" fill="#0e1113" stroke="#22FF66" stroke-width="2.5"/>
       <g transform="translate(14,12)" fill="none" stroke="#22FF66" stroke-width="2">

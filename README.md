@@ -1,4 +1,4 @@
-<h1 align="center">onder balta - game dev</h1>
+<h1 align="center">önder balta - game dev</h1>
 
 <p align="center" style="margin:16px 0 6px 0;">
   <!-- WEBSITE -->
